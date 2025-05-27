@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621362296310",
+    "project_id": "techgear-9d1f4",
+    "storage_bucket": "techgear-9d1f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621362296310:android:1a7862e0cfba0a986083d7",
+        "android_client_info": {
+          "package_name": "com.example.techgear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBld5bYJvrBEMZg21WvHbTMwmGQlY4cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
